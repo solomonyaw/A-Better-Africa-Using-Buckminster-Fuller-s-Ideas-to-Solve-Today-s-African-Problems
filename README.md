@@ -141,6 +141,7 @@ His books such as:
 - *Operating Manual for Spaceship Earth*
 - *Critical Path*
 - *Synergetics*
+- - *Grunch Of Giants*
 
 demonstrate how humanity can solve global problems through **design science, efficiency, and intelligent systems**.
 
