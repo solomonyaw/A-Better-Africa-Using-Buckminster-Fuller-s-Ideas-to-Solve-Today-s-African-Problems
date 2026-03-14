@@ -4,7 +4,7 @@
   <img src="Cover Image A Better Africa Using Buckminster Fuller’s Ideas to Solve Today’s African Problems.png" alt="A Better Africa Book Cover" width="400">
 </p>
 
-<p>Book Written By **Solomon Yaw Adeklo**<p align="center"> 
+##Book Written By **Solomon Yaw Adeklo
   <img src="solo.JPG" alt="A Better Africa Book Cover" width="250">
 </p>
 
