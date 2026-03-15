@@ -21,6 +21,8 @@ This book asks a fundamental question:
 Drawing inspiration from Buckminster Fuller’s philosophy of **“doing more with less”**, this work proposes a shift in mindset: from arguing about problems to **designing systems that solve them**.
 
 ---
+## READ BOOK
+📘 (Excerpts):** [A Better Africa: Using Buckminster Fuller’s Ideas to Solve Today’s African Problems](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems/blob/main/A%20Better%20Africa%20Using%20Buckminster%20Fuller%E2%80%99s%20Ideas%20to%20Solve%20Today%E2%80%99s%20African%20Problems.pdf)
 
 ## Core Ideas of the Book
 
