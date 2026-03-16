@@ -47,7 +47,7 @@ His philosophy emphasizes:
 - Systems thinking
 - Efficiency and sustainability
 - Innovation driven by scientific principles
-- Solving problems through **design rather than political conflict**
+- Solving problems through **design rather than political conflict and unrealistic ideologies**
 
 This book applies these ideas to Africa’s development challenges.
 
