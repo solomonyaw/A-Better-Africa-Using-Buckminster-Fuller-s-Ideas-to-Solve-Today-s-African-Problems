@@ -6,7 +6,7 @@
 
 ## Book Written By Solomon Yaw Adeklo
   <img src="solo.JPG" alt="A Better Africa Book Cover" width="250">
-</p>
+
 
 ## Overview
 
